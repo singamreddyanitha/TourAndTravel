@@ -1,0 +1,13 @@
+.about-container{
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 40px 20px;
+    text-align: center;
+}
+.about-text {
+    font-size: 1.2rem;
+    line-height: 1.6;
+    text-align: justify;
+    color: #555;
+
+}
