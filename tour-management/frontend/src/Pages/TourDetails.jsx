@@ -9,7 +9,7 @@ import Booking from "../components/Booking/Booking";
 import Newsletter from "../shared/Newsletter";
 import useFetch from "../hooks/useFetch";
 import { BASE_URL } from "../utils/config";
-import { AuthContext } from "../contact/AuthContext";
+import { AuthContext } from "../context/AuthContext";
 
 const TourDetails = () => {
   const { id } = useParams();
